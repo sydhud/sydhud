@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sydney (@sydhud)
-- 👀 I’m interested in ballet, design, and APIs
-- 🌱 I’m currently learning JavaScript and SQL
-- 💞️ I’m looking for study buddies or a mentor!
-- 📫 How to reach me: Email at sydhud327@gmail.com or message me @githudd on Twitter!
+- 🎨 Check out my portfolio https://sydhud.github.io/
+- 👀 I’m currently interested in JavaScript, ballet, and APIs
+- 🌱 I’m currently learning Node.js and Python
+- 💞️ Turning challenges into opportunities, one line of code at a time.
+- 📫 How to reach me: Email at sydneyt.hudd@gmail.com or message me @githudd on Twitter!
 
